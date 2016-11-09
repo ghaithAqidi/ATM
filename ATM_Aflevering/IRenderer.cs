@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ATM_Aflevering
 {
-    interface IConvertoer   
+    interface IRenderer
     {
     }
 }

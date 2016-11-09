@@ -1,1 +1,14 @@
 c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\bin\Debug\ATM_Aflevering.exe.config
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\bin\Debug\ATM_Aflevering.exe
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\bin\Debug\ATM_Aflevering.pdb
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\ATM_Aflevering.csprojResolveAssemblyReference.cache
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\MainWindow.g.cs
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\App.g.cs
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\ATM_Aflevering_MarkupCompile.cache
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\ATM_Aflevering_MarkupCompile.lref
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\MainWindow.baml
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\ATM_Aflevering.g.resources
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\ATM_Aflevering.Properties.Resources.resources
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\ATM_Aflevering.csproj.GenerateResource.Cache
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\ATM_Aflevering.exe
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\ATM_Aflevering\ATM_Aflevering\obj\Debug\ATM_Aflevering.pdb
